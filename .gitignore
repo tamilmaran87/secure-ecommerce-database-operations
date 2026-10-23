@@ -1,0 +1,14 @@
+# Database backups
+backups/
+
+# Generated logs and reports
+logs/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.swp
